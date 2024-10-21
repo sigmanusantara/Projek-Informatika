@@ -1,0 +1,36 @@
+/* Place your CSS styles in this file */
+
+body{
+    background-color: rgba(127, 193, 255, 0.399);
+    border: 5px solid rgba(19, 34, 96, 0.871);
+    border-radius: 15px;
+    margin-left: 1cm;
+    margin-right: 1cm;
+}
+
+ul {
+    list-style-type: none;
+    background-color: aliceblue;
+    border: 5px solid lightslategray;
+    border-radius: 15px;
+}
+
+li {
+    display: inline;
+}
+
+h1 {
+    text-align: center;
+    color: darkslateblue;
+    font-family: "Source Sans Pro", sans-serif;
+    font-weight: normal;
+    
+}
+
+P {
+    text-align: center;
+}
+
+img {
+    ;
+}
